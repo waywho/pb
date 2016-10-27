@@ -1,0 +1,2 @@
+class BattleGroundsController < ApplicationController
+end
